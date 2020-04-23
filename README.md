@@ -2,8 +2,8 @@
 
 ```
  git clone https://github.com/sergiopino/sp-finance.git
- cd node-scraping
+ cd sp-finance.git
  npm install 
  node app.js
 ```
-App runs on localhost:4200
+App runs on localhost:5000
